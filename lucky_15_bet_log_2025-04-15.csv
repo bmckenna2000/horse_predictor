@@ -1,0 +1,16 @@
+lucky_15_id,bet_type,race_id,horse,course,off_time,stake,odds,prob,ev
+1,Single,rac_11578620,Starlight,Kempton (AW),6:00,1.0,3.5,0.15,-0.475
+1,Single,rac_11578621,Thunderbolt,Kempton (AW),6:30,1.0,4.0,0.12,-0.52
+1,Single,rac_11578619,Dianarina,Kempton (AW),5:30,1.0,4.5,0.0824163,-0.62912665
+1,Single,rac_11578622,Moonshadow,Kempton (AW),7:00,1.0,3.2,0.1,-0.6799999999999999
+1,Double,"rac_11578620, rac_11578621","Starlight, Thunderbolt","Kempton (AW), Kempton (AW)","6:00, 6:30",1.0,14.0,0.018,-0.748
+1,Double,"rac_11578620, rac_11578619","Starlight, Dianarina","Kempton (AW), Kempton (AW)","6:00, 5:30",1.0,15.75,0.012362445,-0.80529149125
+1,Double,"rac_11578620, rac_11578622","Starlight, Moonshadow","Kempton (AW), Kempton (AW)","6:00, 7:00",1.0,11.200000000000001,0.015,-0.832
+1,Double,"rac_11578621, rac_11578619","Thunderbolt, Dianarina","Kempton (AW), Kempton (AW)","6:30, 5:30",1.0,18.0,0.009889956,-0.821980792
+1,Double,"rac_11578621, rac_11578622","Thunderbolt, Moonshadow","Kempton (AW), Kempton (AW)","6:30, 7:00",1.0,12.8,0.012,-0.8464
+1,Double,"rac_11578619, rac_11578622","Dianarina, Moonshadow","Kempton (AW), Kempton (AW)","5:30, 7:00",1.0,14.4,0.00824163,-0.881320528
+1,Treble,"rac_11578620, rac_11578621, rac_11578619","Starlight, Thunderbolt, Dianarina","Kempton (AW), Kempton (AW), Kempton (AW)","6:00, 6:30, 5:30",1.0,63.0,0.0014834934,-0.9065399158
+1,Treble,"rac_11578620, rac_11578621, rac_11578622","Starlight, Thunderbolt, Moonshadow","Kempton (AW), Kempton (AW), Kempton (AW)","6:00, 6:30, 7:00",1.0,44.800000000000004,0.0018,-0.91936
+1,Treble,"rac_11578620, rac_11578619, rac_11578622","Starlight, Dianarina, Moonshadow","Kempton (AW), Kempton (AW), Kempton (AW)","6:00, 5:30, 7:00",1.0,50.400000000000006,0.0012362445,-0.9376932772
+1,Treble,"rac_11578621, rac_11578619, rac_11578622","Thunderbolt, Dianarina, Moonshadow","Kempton (AW), Kempton (AW), Kempton (AW)","6:30, 5:30, 7:00",1.0,57.6,0.0009889956,-0.94303385344
+1,Fourfold,"rac_11578620, rac_11578621, rac_11578619, rac_11578622","Starlight, Thunderbolt, Dianarina, Moonshadow","Kempton (AW), Kempton (AW), Kempton (AW), Kempton (AW)","6:00, 6:30, 5:30, 7:00",1.0,201.60000000000002,0.00014834934,-0.970092773056

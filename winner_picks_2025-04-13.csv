@@ -1,0 +1,21 @@
+course_decoded,off_time,horse_decoded,predicted_prob,odds_decimal
+Musselburgh,3:45,Shine On Brendan,0.41633472,-0.2818086623152078
+Musselburgh,4:15,Harswell Calling,0.06589516,0.0240413216859614
+Musselburgh,4:45,Eternal Sunshine,0.49124557,-0.3170990450845735
+Musselburgh,5:15,Simple Star,0.4298976,0.0946220872246928
+Musselburgh,5:45,Marhaba Ghaiyyath,0.16385072,-0.4641423066235972
+Musselburgh,6:15,Benacre,0.54143274,-0.3053355841614516
+Musselburgh,6:45,Spirit Genie,0.36664957,-0.3523894278539392
+Stratford,1:43,La Cantate,0.13091357,-0.3523894278539392
+Stratford,2:18,Getthepot,0.32265675,-0.3994432715464268
+Stratford,2:50,R Bernard,0.6747073,-0.4347336543157925
+Stratford,3:25,Jackpot Cash,0.3218612,-0.4641423066235972
+Stratford,3:58,Magical Annie,0.19797502,-0.4653186527159094
+Stratford,4:28,Empire De Maulde,0.4344473,-0.4347336543157925
+Wincanton,1:23,Kentford Mallard,0.29673824,-0.5170778807776458
+Wincanton,1:58,Noah's Light,0.34937972,-0.5170778807776458
+Wincanton,2:32,Byzantium,0.17393617,-0.5170778807776458
+Wincanton,3:05,Getalead,0.6747063,-0.5170778807776458
+Wincanton,3:37,My Gift To You,0.19946076,-0.5170778807776458
+Wincanton,4:07,Gower Prince,0.5717665,-0.5170778807776458
+Wincanton,4:37,Sweet Caryline,0.23739943,-0.5170778807776458

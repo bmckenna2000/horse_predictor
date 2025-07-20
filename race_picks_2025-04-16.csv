@@ -1,0 +1,102 @@
+race_id     , course_decoded, off_time, horse_decoded     , predicted_prob, odds_decimal        , field_size_unscaled
+rac_11575317, Beverley      , 1:40    , Museum Piece      ,    0.01       , -0.35529698062119425,                   3
+rac_11575239, Beverley      , 2:15    , Dickieburd        ,    0.7618863  , -0.16370328056099276,                   9
+rac_11575239, Beverley      , 2:15    , King Of Tonga     ,    0.72585714 , -0.23555091808356832,                   9
+rac_11575239, Beverley      , 2:15    , Elegant Erin      ,    0.40544432 , -0.33134776811366906,                   9
+rac_11612081, Beverley      , 2:50    , Angel Shared      ,    0.85217804 , -0.4031954056362446 ,                   9
+rac_11612081, Beverley      , 2:50    , Duran             ,    0.73099524 , -0.37924619312871943,                   9
+rac_11612081, Beverley      , 2:50    , Hiya Maite        ,    0.670714   , -0.41517001189000724,                   9
+rac_11575304, Beverley      , 3:25    , Arkinthestars     ,    0.033187006, -0.39122079938248205,                   7
+rac_11575304, Beverley      , 3:25    , Adoon Valley      ,    0.01       , -0.4702532006573151 ,                   7
+rac_11575252, Beverley      , 4:00    , Lightening Mann   ,    0.07944986 , -0.45708113377817633,                   6
+rac_11575252, Beverley      , 4:00    , Edge Ofthe Unknown,    0.023237854, -0.4031954056362446 ,                   6
+rac_11575265, Beverley      , 4:32    , Freddy Robinson   ,    0.96740794 , -0.4031954056362446 ,                   8
+rac_11575265, Beverley      , 4:32    , Prince Achille    ,    0.84757614 , -0.21160170557604313,                   8
+rac_11575265, Beverley      , 4:32    , Sisterandbrother  ,    0.091038354, -0.16370328056099276,                   8
+rac_11575291, Beverley      , 5:07    , Law Degree        ,    0.9586114  , -0.37924619312871943,                  13
+rac_11575291, Beverley      , 5:07    , Blueandtangerine  ,    0.857689   , -0.2595001305910935 ,                  13
+rac_11575291, Beverley      , 5:07    , Berkshire Smudge  ,    0.21194026 , -0.2595001305910935 ,                  13
+rac_11575278, Beverley      , 5:37    , Astronomica       ,    0.9022114  , -0.37924619312871943,                  12
+rac_11575278, Beverley      , 5:37    , Coloane           ,    0.565297   , -0.21160170557604313,                  12
+rac_11575278, Beverley      , 5:37    , Beautiful Dawn    ,    0.219901   , 0.09973805702178412 ,                  12
+rac_11577267, Cheltenham    , 1:30    , Block Rockin Beats,    0.041208543, -0.0679064305308921 ,                   9
+rac_11577267, Cheltenham    , 1:30    , The Long Walk     ,    0.026273208, 0.02789041949920856 ,                   9
+rac_11577267, Cheltenham    , 1:30    , Pleasington       ,    0.021480406, -0.3073985556061439 ,                   9
+rac_11577241, Cheltenham    , 2:05    , Whatsupwithyou    ,    0.95335215 , 0.17158569454435968 ,                  15
+rac_11577241, Cheltenham    , 2:05    , Doyen Quest       ,    0.619973   , -0.21160170557604313,                  15
+rac_11577241, Cheltenham    , 2:05    , Royale Margaux    ,    0.436823   , -0.21160170557604313,                  15
+rac_11577202, Cheltenham    , 2:40    , O'Moore Park      ,    0.94999945 , -0.41517001189000724,                  10
+rac_11577202, Cheltenham    , 2:40    , Hang In There     ,    0.09397582 , -0.16370328056099276,                  10
+rac_11577202, Cheltenham    , 2:40    , Blow Your Wad     ,    0.06100108 , -0.3073985556061439 ,                  10
+rac_11577254, Cheltenham    , 3:15    , Illico De Cotte   ,    0.23167087 , -0.23555091808356832,                  15
+rac_11577254, Cheltenham    , 3:15    , Valirann Gold     ,    0.114659786, 0.29133175708198567 ,                  15
+rac_11577254, Cheltenham    , 3:15    , Ask Brewster      ,    0.07953551 , -0.35529698062119425,                  15
+rac_11577228, Cheltenham    , 3:50    , Long Draw         ,    0.96803373 , -0.4031954056362446 ,                  10
+rac_11577228, Cheltenham    , 3:50    , Super Survivor    ,    0.7785386  , -0.2595001305910935 ,                  10
+rac_11577228, Cheltenham    , 3:50    , Dashel Drasher    ,    0.77182025 , -0.33134776811366906,                  10
+rac_11577215, Cheltenham    , 4:25    , Moroder           ,    0.9541189  , -0.41517001189000724,                   7
+rac_11577215, Cheltenham    , 4:25    , Grandads Cottage  ,    0.90691745 , -0.37924619312871943,                   7
+rac_11577280, Cheltenham    , 5:00    , Big Boy Bobby     ,    0.97892326 , -0.3073985556061439 ,                  16
+rac_11577280, Cheltenham    , 5:00    , Mary              ,    0.5825367  , -0.11580485554594236,                  16
+rac_11577280, Cheltenham    , 5:00    , Norman Fletcher   ,    0.20517248 , -0.3073985556061439 ,                  16
+rac_11577280, Cheltenham    , 5:00    , Game Colours      ,    0.17160447 , -0.3073985556061439 ,                  16
+rac_11611561, Ffos Las      , 4:37    , It's A Breeze     ,    0.08684807 , -0.21160170557604313,                  10
+rac_11611561, Ffos Las      , 4:37    , Buckna            ,    0.05485221 , -0.451093830651295  ,                  10
+rac_11611561, Ffos Las      , 4:37    , Mask Of Zorro     ,    0.016232481, -0.0679064305308921 ,                  10
+rac_11612094, Ffos Las      , 5:12    , Pyleigh Master    ,    0.7577215  , -0.41517001189000724,                  10
+rac_11612094, Ffos Las      , 5:12    , Kap Boy           ,    0.3159816  , -0.451093830651295  ,                  10
+rac_11612094, Ffos Las      , 5:12    , Golan Loop        ,    0.06429607 , -0.3672715868749568 ,                  10
+rac_11611600, Ffos Las      , 5:45    , Jalisco Star      ,    0.9692611  , -0.33134776811366906,                   8
+rac_11611600, Ffos Las      , 5:45    , Felicie Du Maquis ,    0.92717266 , -0.37924619312871943,                   8
+rac_11611600, Ffos Las      , 5:45    , Current Mood      ,    0.90115875 , -0.16370328056099276,                   8
+rac_11611626, Ffos Las      , 6:15    , The Dream Goes On ,    0.9695005  , -0.43313192127065103,                   9
+rac_11611626, Ffos Las      , 6:15    , Cat Tiger         ,    0.9509287  , -0.2834493430986187 ,                   9
+rac_11611626, Ffos Las      , 6:15    , Art Of Diplomacy  ,    0.9254614  , -0.39122079938248205,                   9
+rac_11611574, Ffos Las      , 6:45    , El Granjero       ,    0.9752007  , -0.4031954056362446 ,                  10
+rac_11611574, Ffos Las      , 6:45    , Getalead          ,    0.8713838  , -0.16370328056099276,                  10
+rac_11611574, Ffos Las      , 6:45    , West To The Bridge,    0.0693438  , -0.39122079938248205,                  10
+rac_11611613, Ffos Las      , 7:15    , Bampton Star      ,    0.98216766 , -0.35529698062119425,                  12
+rac_11611613, Ffos Las      , 7:15    , Try The Money     ,    0.74869657 , -0.31937316185990644,                  12
+rac_11611613, Ffos Las      , 7:15    , Perfect Pupil     ,    0.58229375 , -0.11580485554594236,                  12
+rac_11611587, Ffos Las      , 7:45    , Highbury Hill     ,    0.86191547 , -0.37924619312871943,                  12
+rac_11611587, Ffos Las      , 7:45    , Victor Haze       ,    0.74238694 , -0.2834493430986187 ,                  12
+rac_11611587, Ffos Las      , 7:45    , Gavin             ,    0.64333963 , -0.21160170557604313,                  12
+rac_11575096, Newmarket     , 1:50    , Bob Mali          ,    0.75811976 , 0.02789041949920856 ,                  14
+rac_11575096, Newmarket     , 1:50    , Cayman Tai        ,    0.68725705 , -0.2834493430986187 ,                  14
+rac_11575096, Newmarket     , 1:50    , Al Misbar         ,    0.62374663 , -0.4031954056362446 ,                  14
+rac_11575122, Newmarket     , 2:25    , Unknown Horse     ,    0.01       , -0.11580485554594236,                   2
+rac_11575070, Newmarket     , 3:00    , Run To Freedom    ,    0.9444384  , -0.23555091808356832,                   5
+rac_11575070, Newmarket     , 3:00    , Apollo One        ,    0.6662835  , -0.31937316185990644,                   5
+rac_11575057, Newmarket     , 3:35    , Wimbledon Hawkeye ,    0.96990293 , -0.41517001189000724,                   9
+rac_11575057, Newmarket     , 3:35    , New Century       ,    0.87575436 , -0.3433223743674317 ,                   9
+rac_11575057, Newmarket     , 3:35    , Aomori City       ,    0.72784334 , -0.35529698062119425,                   9
+rac_11575135, Newmarket     , 4:10    , Unknown Horse     ,    0.01       , -0.39122079938248205,                   6
+rac_11575135, Newmarket     , 4:10    , Stellenbosch      ,    0.01       , -0.451093830651295  ,                   6
+rac_11575109, Newmarket     , 4:45    , Valedictory       ,    0.01       , -0.4599550392790793 ,                   8
+rac_11575109, Newmarket     , 4:45    , Stardrop          ,    0.01       , 0.02789041949920856 ,                   8
+rac_11575109, Newmarket     , 4:45    , Spanish Voice     ,    0.01       , -0.39122079938248205,                   8
+rac_11575083, Newmarket     , 5:20    , Fifty Nifty       ,    0.99       , -0.43911922439753237,                   8
+rac_11575083, Newmarket     , 5:20    , Stanage           ,    0.97300154 , -0.3073985556061439 ,                   8
+rac_11575083, Newmarket     , 5:20    , Ten Pounds        ,    0.65015185 , -0.4031954056362446 ,                   8
+rac_11577150, Wincanton     , 4:02    , Puddlesinthepark  ,    0.75656575 , -0.5229414681738707 ,                   6
+rac_11577150, Wincanton     , 4:02    , Felton Bellevue   ,    0.67085314 , -0.5229414681738707 ,                   6
+rac_11577163, Wincanton     , 4:37    , Noble Park        ,    0.28198716 , -0.5229414681738707 ,                  12
+rac_11577163, Wincanton     , 4:37    , Chique Angel      ,    0.139107   , -0.5229414681738707 ,                  12
+rac_11577163, Wincanton     , 4:37    , It's A Breeze     ,    0.027496187, -0.5229414681738707 ,                  12
+rac_11577124, Wincanton     , 5:12    , La Dolce Dolly    ,    0.9554752  , -0.5229414681738707 ,                   9
+rac_11577124, Wincanton     , 5:12    , Pure Theatre      ,    0.9049345  , -0.5229414681738707 ,                   9
+rac_11577124, Wincanton     , 5:12    , Florencethemachine,    0.6395134  , -0.5229414681738707 ,                   9
+rac_11577137, Wincanton     , 5:45    , Clearance         ,    0.9181654  , -0.5229414681738707 ,                  14
+rac_11577137, Wincanton     , 5:45    , Chicago Storm     ,    0.8607402  , -0.5229414681738707 ,                  14
+rac_11577137, Wincanton     , 5:45    , Him Malaya        ,    0.8518145  , -0.5229414681738707 ,                  14
+rac_11577176, Wincanton     , 6:15    , South Omo Zone    ,    0.8380805  , -0.5229414681738707 ,                  15
+rac_11577176, Wincanton     , 6:15    , Dirty Den         ,    0.4616962  , -0.5229414681738707 ,                  15
+rac_11577176, Wincanton     , 6:15    , John Betjeman     ,    0.15444028 , -0.5229414681738707 ,                  15
+rac_11577111, Wincanton     , 6:45    , Flash Gorcombe    ,    0.9509849  , -0.5229414681738707 ,                  10
+rac_11577111, Wincanton     , 6:45    , Bertie Wooster    ,    0.8578091  , -0.5229414681738707 ,                  10
+rac_11577111, Wincanton     , 6:45    , Abingworth        ,    0.812452   , -0.5229414681738707 ,                  10
+rac_11600316, Wincanton     , 7:15    , Unknown Horse     ,    0.06869941 , -0.5229414681738707 ,                   5
+rac_11600316, Wincanton     , 7:15    , Unknown Horse     ,    0.0482913  , -0.5229414681738707 ,                   5
+rac_11577189, Wincanton     , 7:45    , Unknown Horse     ,    0.60359895 , -0.5229414681738707 ,                   8
+rac_11577189, Wincanton     , 7:45    , Calvino           ,    0.22149469 , -0.5229414681738707 ,                   8
+rac_11577189, Wincanton     , 7:45    , American Empire   ,    0.027550908, -0.5229414681738707 ,                   8

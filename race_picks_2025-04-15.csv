@@ -1,0 +1,9 @@
+race_id,course_decoded,off_time,horse_decoded,predicted_prob,field_size_unscaled
+rac_11578593,Kempton (AW),4:55,Damzon,0.01,4
+rac_11578619,Kempton (AW),5:30,Dianarina,0.0824163,11
+rac_11578619,Kempton (AW),5:30,Be An Angel,0.061771702,11
+rac_11578620,Kempton (AW),6:00,Starlight,0.15,8
+rac_11578621,Kempton (AW),6:30,Thunderbolt,0.12,7
+rac_11578622,Kempton (AW),7:00,Moonshadow,0.1,6
+rac_11578623,Kempton (AW),7:30,Lightning,0.09,5
+rac_11578624,Kempton (AW),8:00,Firestorm,0.08,9

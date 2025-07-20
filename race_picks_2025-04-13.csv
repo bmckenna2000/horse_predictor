@@ -1,0 +1,53 @@
+race_id     , course_decoded, off_time, horse_decoded    , predicted_prob, odds_decimal        , field_size_unscaled
+rac_11574862, Musselburgh   , 3:45    , Swift Salian     ,    0.60570645 , -0.2595001305910935 ,                  14
+rac_11574862, Musselburgh   , 3:45    , Jesmond Dawn     ,    0.41073635 , -0.21160170557604313,                  14
+rac_11574862, Musselburgh   , 3:45    , Shine On Brendan ,    0.3963782  , -0.2834493430986187 ,                  14
+rac_11574810, Musselburgh   , 4:15    , Unknown Horse    ,    0.01       , -0.4791144092850994 ,                   2
+rac_11574849, Musselburgh   , 4:45    , Catch Cunningham ,    0.65277874 , -0.0679064305308921 ,                  16
+rac_11574849, Musselburgh   , 4:45    , Classy Al        ,    0.64062166 , -0.11580485554594236,                  16
+rac_11574849, Musselburgh   , 4:45    , Glory Hyde       ,    0.63779294 , -0.16370328056099276,                  16
+rac_11574849, Musselburgh   , 4:45    , Ziggy's Queen    ,    0.5758958  , -0.16370328056099276,                  16
+rac_11574823, Musselburgh   , 5:15    , Simple Star      ,    0.80964714 , 0.09973805702178412 ,                  13
+rac_11574823, Musselburgh   , 5:15    , It's A Love Thing,    0.7863395  , -0.3073985556061439 ,                  13
+rac_11574823, Musselburgh   , 5:15    , The Dancing Poet ,    0.4313577  , 0.09973805702178412 ,                  13
+rac_11574797, Musselburgh   , 5:45    , Springbok        ,    0.09606936 , -0.21160170557604313,                   7
+rac_11574797, Musselburgh   , 5:45    , Arbitration      ,    0.06768541 , -0.39122079938248205,                   7
+rac_11574836, Musselburgh   , 6:15    , Benacre          ,    0.7829242  , -0.3073985556061439 ,                  12
+rac_11574836, Musselburgh   , 6:15    , Jonny Concrete   ,    0.6461853  , -0.33134776811366906,                  12
+rac_11574836, Musselburgh   , 6:15    , Stockpyle        ,    0.61227775 , -0.4031954056362446 ,                  12
+rac_11574784, Musselburgh   , 6:45    , Spirit Genie     ,    0.7156228  , -0.35529698062119425,                   9
+rac_11574784, Musselburgh   , 6:45    , Ramazan          ,    0.7007034  , -0.4031954056362446 ,                   9
+rac_11574784, Musselburgh   , 6:45    , Gweedore         ,    0.47397754 , -0.31937316185990644,                   9
+rac_11576708, Stratford     , 1:43    , Pomeriggio       ,    0.24948479 , -0.39122079938248205,                   9
+rac_11576708, Stratford     , 1:43    , La Cantate       ,    0.20191802 , -0.35529698062119425,                   9
+rac_11576708, Stratford     , 1:43    , Keep On Cobbling ,    0.1794014  , -0.43911922439753237,                   9
+rac_11576721, Stratford     , 2:18    , Getthepot        ,    0.12471123 , -0.4031954056362446 ,                   7
+rac_11576721, Stratford     , 2:18    , Pottlerath       ,    0.09509942 , -0.37924619312871943,                   7
+rac_11576734, Stratford     , 2:50    , R Bernard        ,    0.7576137  , -0.43911922439753237,                   8
+rac_11576734, Stratford     , 2:50    , Blackacre        ,    0.43254218 , -0.43911922439753237,                   8
+rac_11576734, Stratford     , 2:50    , Presenting Yeats ,    0.18954556 , -0.0679064305308921 ,                   8
+rac_11576747, Stratford     , 3:25    , Jackpot Cash     ,    0.4685267  , -0.46905574003193884,                   6
+rac_11576747, Stratford     , 3:25    , Neigh Botha      ,    0.17553312 , -0.41924137801628647,                   6
+rac_11576695, Stratford     , 3:58    , Therapist        ,    0.15147027 , -0.4539677361521981 ,                   4
+rac_11576760, Stratford     , 4:28    , Empire De Maulde ,    0.15483835 , -0.43911922439753237,                   5
+rac_11576760, Stratford     , 4:28    , Imperial Esprit  ,    0.07159419 , -0.2595001305910935 ,                   5
+rac_11576825, Wincanton     , 1:23    , Jackpot Cash     ,    0.5541494  , -0.5229414681738707 ,                  10
+rac_11576825, Wincanton     , 1:23    , Stanley Pincombe ,    0.1396197  , -0.5229414681738707 ,                  10
+rac_11576825, Wincanton     , 1:23    , Pure Theatre     ,    0.12500168 , -0.5229414681738707 ,                  10
+rac_11576812, Wincanton     , 1:58    , Noah's Light     ,    0.26356998 , -0.5229414681738707 ,                   9
+rac_11576812, Wincanton     , 1:58    , Quickbuck        ,    0.105487384, -0.5229414681738707 ,                   9
+rac_11576812, Wincanton     , 1:58    , Gladiatus        ,    0.094711825, -0.5229414681738707 ,                   9
+rac_11576851, Wincanton     , 2:32    , Jackstell        ,    0.23765254 , -0.5229414681738707 ,                   8
+rac_11576851, Wincanton     , 2:32    , Oval Street      ,    0.0533157  , -0.5229414681738707 ,                   8
+rac_11576851, Wincanton     , 2:32    , Organic          ,    0.047147688, -0.5229414681738707 ,                   8
+rac_11576773, Wincanton     , 3:05    , Whatsupwithyou   ,    0.596598   , -0.5229414681738707 ,                  13
+rac_11576773, Wincanton     , 3:05    , Getalead         ,    0.50800633 , -0.5229414681738707 ,                  13
+rac_11576773, Wincanton     , 3:05    , Pure Theatre     ,    0.3198596  , -0.5229414681738707 ,                  13
+rac_11576786, Wincanton     , 3:37    , My Gift To You   ,    0.0939891  , -0.5229414681738707 ,                   6
+rac_11576786, Wincanton     , 3:37    , Grillon De Monty ,    0.038023952, -0.5229414681738707 ,                   6
+rac_11576799, Wincanton     , 4:07    , Universal Secret ,    0.14264573 , -0.5229414681738707 ,                   8
+rac_11576799, Wincanton     , 4:07    , Gower Prince     ,    0.13680975 , -0.5229414681738707 ,                   8
+rac_11576799, Wincanton     , 4:07    , Begin The Luck   ,    0.12549047 , -0.5229414681738707 ,                   8
+rac_11576838, Wincanton     , 4:37    , Bluenose Belle   ,    0.15785564 , -0.5229414681738707 ,                  11
+rac_11576838, Wincanton     , 4:37    , Saisissante      ,    0.12198701 , -0.5229414681738707 ,                  11
+rac_11576838, Wincanton     , 4:37    , Sweet Caryline   ,    0.09383839 , -0.5229414681738707 ,                  11

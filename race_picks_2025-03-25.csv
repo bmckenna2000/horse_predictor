@@ -1,0 +1,57 @@
+race_id,course_decoded,off_time,horse_decoded,predicted_prob,field_size_unscaled
+rac_11561381,Hexham,2:20,Shadows In The Sky,0.89471793,11
+rac_11561381,Hexham,2:20,Red Cadillac,0.8918006,11
+rac_11561381,Hexham,2:20,Final Edgar,0.6307679,11
+rac_11585444,Hexham,2:50,Tan Law,0.83481956,10
+rac_11585444,Hexham,2:50,Forest Blaze,0.6117104,10
+rac_11585444,Hexham,2:50,Santa Clarita,0.44411343,10
+rac_11561394,Hexham,3:20,He's Bresilian,0.81202525,10
+rac_11561394,Hexham,3:20,Kingston Rock,0.43487582,10
+rac_11561394,Hexham,3:20,Kelvin Forlonge,0.34702408,10
+rac_11561368,Hexham,3:50,Coolmoyne,0.61903286,8
+rac_11561368,Hexham,3:50,Halfway House Lad,0.09270464,8
+rac_11561368,Hexham,3:50,Dequall,0.082151756,8
+rac_11561355,Hexham,4:20,Lawrenny,0.8354886,8
+rac_11561355,Hexham,4:20,Rock On Jet,0.77815855,8
+rac_11561355,Hexham,4:20,V Twelve,0.60427684,8
+rac_11561342,Hexham,4:50,Divas Doyen,0.94628686,9
+rac_11561342,Hexham,4:50,Choose A Copper,0.8529977,9
+rac_11561342,Hexham,4:50,Grand Voyage,0.41381636,9
+rac_11561407,Hexham,5:25,Sparky Tom,0.2161622,4
+rac_11563760,Newcastle (AW),4:43,Ana Emaraaty,0.8701464,8
+rac_11563760,Newcastle (AW),4:43,Sandret,0.82027006,8
+rac_11563760,Newcastle (AW),4:43,Rubellite,0.5239521,8
+rac_11585457,Newcastle (AW),5:15,Violeta,0.85478866,8
+rac_11585457,Newcastle (AW),5:15,Eva Rosie,0.8520674,8
+rac_11585457,Newcastle (AW),5:15,We Still Believe,0.8428333,8
+rac_11563747,Newcastle (AW),5:45,Zephlyn,0.92209274,9
+rac_11563747,Newcastle (AW),5:45,Alex The Great,0.9176488,9
+rac_11563747,Newcastle (AW),5:45,Quercus Robur,0.6906897,9
+rac_11563734,Newcastle (AW),6:15,Inspire Hope,0.27656412,6
+rac_11563734,Newcastle (AW),6:15,Don Simon,0.22319148,6
+rac_11563773,Newcastle (AW),6:45,Just Typical,0.8896311,8
+rac_11563773,Newcastle (AW),6:45,Odd Socks Havana,0.8628881,8
+rac_11563773,Newcastle (AW),6:45,Concert Boy,0.77762777,8
+rac_11563812,Newcastle (AW),7:15,Sun Keeper,0.5826961,9
+rac_11563812,Newcastle (AW),7:15,Love Rock,0.5506677,9
+rac_11563812,Newcastle (AW),7:15,Atherstone Beau,0.44599053,9
+rac_11563799,Newcastle (AW),7:45,Dash Gordon,0.92072225,12
+rac_11563799,Newcastle (AW),7:45,Phoenix Star,0.68590903,12
+rac_11563799,Newcastle (AW),7:45,Pop Dancer,0.6395364,12
+rac_11563786,Newcastle (AW),8:15,Cloch Nua,0.7170147,6
+rac_11563786,Newcastle (AW),8:15,Saisons d'Or,0.68334895,6
+rac_11561459,Taunton,2:35,Fasol,0.812538,5
+rac_11561459,Taunton,2:35,Dance And Glance,0.05102256,5
+rac_11561472,Taunton,3:05,Ma Belle Noire,0.5088693,10
+rac_11561472,Taunton,3:05,Sevenofus,0.1194834,10
+rac_11561472,Taunton,3:05,Ellie's Warrior,0.071566544,10
+rac_11561485,Taunton,3:35,Zucayan,0.84958786,14
+rac_11561485,Taunton,3:35,John Betjeman,0.7435663,14
+rac_11561485,Taunton,3:35,Bigz Belief,0.6856082,14
+rac_11561420,Taunton,4:05,Ede'iffs Rock,0.4291095,4
+rac_11561446,Taunton,4:35,Him Malaya,0.9659622,6
+rac_11561446,Taunton,4:35,Through The Ages,0.07818796,6
+rac_11561433,Taunton,5:05,Stuti,0.802632,6
+rac_11561433,Taunton,5:05,Poet's Reflection,0.30818236,6
+rac_11561498,Taunton,5:35,Act Of Innocence,0.6943798,7
+rac_11561498,Taunton,5:35,Soul Limbo,0.06163666,7

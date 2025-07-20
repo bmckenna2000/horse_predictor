@@ -1,0 +1,73 @@
+race_id     , course_decoded, off_time, horse_decoded     , predicted_prob, odds_decimal       , field_size_unscaled
+rac_11576461, Ayr           , 1:30    , Liari             ,     0.5591979 , -0.3994432715464268,                  12
+rac_11576461, Ayr           , 1:30    , Lario             ,     0.48848632, -0.3994432715464268,                  12
+rac_11576461, Ayr           , 1:30    , Lipa K            ,     0.4607778 , -0.2347548186227202,                  12
+rac_11576500, Ayr           , 2:05    , Irish Chorus      ,     0.4063033 , -0.4493203458604637,                   5
+rac_11576500, Ayr           , 2:05    , Green Sky         ,     0.3069231 , -0.4406153847773534,                   5
+rac_11576474, Ayr           , 2:40    , Gaillimh A Stor   ,     0.574355  , -0.0230125220065261,                  14
+rac_11576474, Ayr           , 2:40    , Imperial Merlin   ,     0.51591074, -0.3406259669308173,                  14
+rac_11576474, Ayr           , 2:40    , I Am Max          ,     0.51239955, -0.3523894278539392,                  14
+rac_11576435, Ayr           , 3:15    , Ned Tanner        ,     0.6035365 , -0.3406259669308173,                  12
+rac_11576435, Ayr           , 3:15    , Vintage Fizz      ,     0.54388654, -0.3053355841614516,                  12
+rac_11576435, Ayr           , 3:15    , Gelino Bello      ,     0.46857992, 0.0946220872246928 ,                  12
+rac_11576487, Ayr           , 3:50    , Paso Doble        ,     0.46588874, -0.4112067324695487,                   5
+rac_11576487, Ayr           , 3:50    , Torneo            ,     0.4147242 , -0.4347336543157925,                   5
+rac_11576448, Ayr           , 4:25    , The Four Sixes    ,     0.50767004, -0.4152063091834101,                  10
+rac_11576448, Ayr           , 4:25    , Irish Hill        ,     0.4686127 , -0.258281740468964 ,                  10
+rac_11576448, Ayr           , 4:25    , Red Risk          ,     0.40233585, -0.375916349700183 ,                  10
+rac_11576513, Ayr           , 4:58    , Balboa            ,     0.31242293, -0.375916349700183 ,                  13
+rac_11576513, Ayr           , 4:58    , Authorized Mission,     0.08827808, 0.0946220872246928 ,                  13
+rac_11576513, Ayr           , 4:58    , Out Out           ,     0.08581573, -0.4229701933926706,                  13
+rac_11576292, Fontwell      , 1:40    , Twist Of Fatecatch,     0.3942609 , -0.4888455745621533,                   6
+rac_11576292, Fontwell      , 1:40    , Ballyhealy Diamond,     0.13353346, 1.8591412256929776 ,                   6
+rac_11576266, Fontwell      , 2:15    , Sherborne         ,     0.43438905, -0.3876798106233049,                   7
+rac_11576266, Fontwell      , 2:15    , All Authorized    ,     0.41956922, -0.4112067324695487,                   7
+rac_11576331, Fontwell      , 2:50    , Diamond Joel      ,     0.5515749 , 0.4475259149183497 ,                   9
+rac_11576331, Fontwell      , 2:50    , Stanley Pincombe  ,     0.45875463, -0.1171202093915012,                   9
+rac_11576331, Fontwell      , 2:50    , Staff Sergeant Len,     0.27387187, -0.4112067324695487,                   9
+rac_11576279, Fontwell      , 3:25    , Honneur d'Ajonc   ,     0.41758248, -0.4347336543157925,                   5
+rac_11576279, Fontwell      , 3:25    , Batwomen          ,     0.40525728, -0.4112067324695487,                   5
+rac_11576305, Fontwell      , 4:00    , Kap Auteuil       ,     0.44252485, -0.3170990450845735,                   8
+rac_11576305, Fontwell      , 4:00    , Extraordinary Man ,     0.40000135, -0.3641528887770611,                   8
+rac_11576305, Fontwell      , 4:00    , Millies Mite      ,     0.39601406, -0.1641740530839888,                   8
+rac_11576318, Fontwell      , 4:30    , Bobbigrey         ,     0.18519977, -0.4112067324695487,                   6
+rac_11576318, Fontwell      , 4:30    , Melleray Hill     ,     0.17959836, -0.3170990450845735,                   6
+rac_11600329, Huntingdon    , 4:35    , Whatsyourproblem  ,     0.42515838, -0.4831991133190547,                   5
+rac_11600329, Huntingdon    , 4:35    , Vera Hobbs        ,     0.16084507, -0.1171202093915012,                   5
+rac_11600342, Huntingdon    , 5:05    , Cuban Court       ,     0.4200672 , -0.4777879212944187,                   5
+rac_11600342, Huntingdon    , 5:05    , Greenways         ,     0.24303705, -0.4229701933926706,                   5
+rac_11600355, Huntingdon    , 5:38    , Wearapinkribbon   ,     0.6205162 , -0.3876798106233049,                   6
+rac_11600355, Huntingdon    , 5:38    , Jack The Savage   ,     0.36104113, -0.4347336543157925,                   6
+rac_11600368, Huntingdon    , 6:08    , Hystery Bere      ,     0.44293758, -0.4582605761620363,                   4
+rac_11600381, Huntingdon    , 6:38    , Getupearly        ,     0.48763126, -0.4347336543157925,                   6
+rac_11600381, Huntingdon    , 6:38    , One Man Party     ,     0.39182216, -0.3641528887770611,                   6
+rac_11600394, Huntingdon    , 7:08    , Leonidass         ,     0.19597654, 1.0592258829206884 ,                   4
+rac_11574407, Newbury       , 1:52    , Unknown Horse     ,     0.01      , -0.4288519238542315,                   1
+rac_11574394, Newbury       , 2:27    , Unknown Horse     ,     0.01      , 0.2828374619946432 ,                   1
+rac_11574381, Newbury       , 3:03    , Lady Ridgewood    ,     0.46052   , -0.4288519238542315,                   5
+rac_11574381, Newbury       , 3:03    , Unknown Horse     ,     0.01      , 0.0946220872246928 ,                   5
+rac_11574342, Newbury       , 3:37    , Saddadd           ,     0.10395996, -0.3994432715464268,                   6
+rac_11574342, Newbury       , 3:37    , Meblesh           ,     0.01      , -0.375916349700183 ,                   6
+rac_11574329, Newbury       , 4:10    , Moon Over Miami   ,     0.387568  , -0.4288519238542315,                   8
+rac_11574329, Newbury       , 4:10    , Blazeon Five      ,     0.3444481 , -0.2112278967764764,                   8
+rac_11574329, Newbury       , 4:10    , Dreams Adozen     ,     0.33711246, -0.2112278967764764,                   8
+rac_11574355, Newbury       , 4:45    , Hyperchromatic    ,     0.28669715, -0.2818086623152078,                  10
+rac_11574355, Newbury       , 4:45    , Spell Master      ,     0.28436995, -0.3523894278539392,                  10
+rac_11574355, Newbury       , 4:45    , Spirit Of Farhh   ,     0.26935247, -0.4112067324695487,                  10
+rac_11574368, Newbury       , 5:20    , Change Sings      ,     0.54569316, -0.3406259669308173,                  11
+rac_11574368, Newbury       , 5:20    , Sir Les Patterson ,     0.5401988 , -0.3523894278539392,                  11
+rac_11574368, Newbury       , 5:20    , Havanagreattime   ,     0.46651334, -0.258281740468964 ,                  11
+rac_11576357, Sedgefield    , 4:15    , Willie Shake Hands,     0.27183774, -0.4582605761620363,                   6
+rac_11576357, Sedgefield    , 4:15    , Maggies Boy       ,     0.23948371, -0.3406259669308173,                   6
+rac_11576383, Sedgefield    , 4:50    , Lahire            ,     0.49308926, -0.3641528887770611,                   7
+rac_11576383, Sedgefield    , 4:50    , Fearless Action   ,     0.3939644 , -0.3876798106233049,                   7
+rac_11576409, Sedgefield    , 5:25    , Bodygroove        ,     0.52553403, -0.3876798106233049,                   6
+rac_11576409, Sedgefield    , 5:25    , Lawmans Blis      ,     0.4400735 , -0.3994432715464268,                   6
+rac_11576344, Sedgefield    , 5:55    , Chemical Warfare  ,     0.37473977, -0.4112067324695487,                   6
+rac_11576344, Sedgefield    , 5:55    , Redbridge Rambler ,     0.23900619, -0.4406153847773534,                   6
+rac_11576396, Sedgefield    , 6:25    , Vanilla Dancer    ,     0.46263403, -0.4112067324695487,                   9
+rac_11576396, Sedgefield    , 6:25    , Remarkable Flight ,     0.30593032, -0.3053355841614516,                   9
+rac_11576396, Sedgefield    , 6:25    , Lone Star         ,     0.2992162 , -0.3876798106233049,                   9
+rac_11576370, Sedgefield    , 6:55    , Couldbeaweapon    ,     0.25025886, -0.3288625060076954,                   5
+rac_11576370, Sedgefield    , 6:55    , Beny Nahar Road   ,     0.18129963, -0.4288519238542315,                   5
+rac_11576422, Sedgefield    , 7:25    , Swingingonthesteel,     0.3558462 , -0.4789642673867308,                   4

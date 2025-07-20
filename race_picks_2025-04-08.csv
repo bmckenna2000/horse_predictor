@@ -1,0 +1,54 @@
+race_id     , course_decoded, off_time, horse_decoded    , predicted_prob, odds_decimal       , field_size_unscaled
+rac_11575876, Carlisle      , 2:20    , Double Digits    ,    0.4179718  , -0.4831991133190547,                   5
+rac_11575876, Carlisle      , 2:20    , Kabuki           ,    0.16766368 , -0.3053355841614516,                   5
+rac_11575863, Carlisle      , 2:50    , New Invention    ,    0.16368483 , -0.4229701933926706,                   6
+rac_11575863, Carlisle      , 2:50    , Cahier's Den     ,    0.1357887  , -0.4552020763220246,                   6
+rac_11575824, Carlisle      , 3:20    , Finn Lough       ,    0.5552951  , -0.4406153847773534,                   4
+rac_11575837, Carlisle      , 3:50    , Imperial Jade    ,    0.45977658 , -0.4582605761620363,                   6
+rac_11575837, Carlisle      , 3:50    , Willaston        ,    0.25933877 , -0.3994432715464268,                   6
+rac_11575889, Carlisle      , 4:25    , Powerofjet       ,    0.19330736 , -0.4523788457004754,                  10
+rac_11575889, Carlisle      , 4:25    , Geordies Dream   ,    0.10743772 , -0.0700663656990137,                  10
+rac_11575889, Carlisle      , 4:25    , Looking Splendid ,    0.106597744, -0.4152063091834101,                  10
+rac_11575850, Carlisle      , 5:00    , Martalmix'jac    ,    0.63165104 , -0.4552020763220246,                   6
+rac_11575850, Carlisle      , 5:00    , Gipsy Lee Rose   ,    0.51320755 , -0.3876798106233049,                   6
+rac_11575902, Carlisle      , 5:35    , Palm Beach       ,    0.41144615 , -0.0700663656990137,                   7
+rac_11575902, Carlisle      , 5:35    , Wee Alki         ,    0.3140128  , -0.4493203458604637,                   7
+rac_11574134, Pontefract    , 2:02    , U Sure Do        ,    0.36854103 , -0.4347336543157925,                   5
+rac_11574134, Pontefract    , 2:02    , Veblen Good      ,    0.098681554, -0.4229701933926706,                   5
+rac_11574095, Pontefract    , 2:32    , Ribble River     ,    0.84100574 , -0.3523894278539392,                  10
+rac_11574095, Pontefract    , 2:32    , Letmeseethecolts ,    0.5844378  , -0.4288519238542315,                  10
+rac_11574095, Pontefract    , 2:32    , Billy No Mates   ,    0.43873137 , -0.375916349700183 ,                  10
+rac_11574082, Pontefract    , 3:02    , Glory And Honour ,    0.73132277 , -0.4406153847773534,                   7
+rac_11574082, Pontefract    , 3:02    , Pigeon House     ,    0.66658425 , -0.4610838067835855,                   7
+rac_11574056, Pontefract    , 3:32    , Venture Capital  ,    0.49644858 , -0.3994432715464268,                  11
+rac_11574056, Pontefract    , 3:32    , Wen Moon         ,    0.45145813 , -0.375916349700183 ,                  11
+rac_11574056, Pontefract    , 3:32    , Dream Composer   ,    0.37020996 , -0.3170990450845735,                  11
+rac_11574069, Pontefract    , 4:07    , Invitorio        ,    0.6354277  , -0.3523894278539392,                   9
+rac_11574069, Pontefract    , 4:07    , Lesley's Boy     ,    0.413911   , -0.3406259669308173,                   9
+rac_11574069, Pontefract    , 4:07    , Scatter Penny    ,    0.3512479  , -0.3053355841614516,                   9
+rac_11574121, Pontefract    , 4:42    , Doddie's Impact  ,    0.64790416 , -0.3170990450845735,                  10
+rac_11574121, Pontefract    , 4:42    , Herakles         ,    0.57922626 , -0.375916349700183 ,                  10
+rac_11574121, Pontefract    , 4:42    , Mrs Trump        ,    0.45515794 , -0.3288625060076954,                  10
+rac_11574108, Pontefract    , 5:12    , Shaladar         ,    0.65987194 , -0.4229701933926706,                   6
+rac_11574108, Pontefract    , 5:12    , Partisan Hero    ,    0.62252647 , -0.4493203458604637,                   6
+rac_11578203, Southwell (AW), 5:27    , This Time Maybe  ,    0.64906126 , -0.3876798106233049,                  11
+rac_11578203, Southwell (AW), 5:27    , Moon Over The Sea,    0.56334794 , -0.3170990450845735,                  11
+rac_11578203, Southwell (AW), 5:27    , Kalikapour       ,    0.52244186 , -0.3170990450845735,                  11
+rac_11578268, Southwell (AW), 6:00    , Magna            ,    0.7318195  , -0.4112067324695487,                  12
+rac_11578268, Southwell (AW), 6:00    , No Release       ,    0.5301714  , -0.3641528887770611,                  12
+rac_11578268, Southwell (AW), 6:00    , Ballarat Bertie  ,    0.21221527 , -0.4406153847773534,                  12
+rac_11578242, Southwell (AW), 6:30    , Radio Star       ,    0.65055424 , -0.4552020763220246,                   9
+rac_11578242, Southwell (AW), 6:30    , Alondra          ,    0.16425991 , -0.4582605761620363,                   9
+rac_11578242, Southwell (AW), 6:30    , Mwafaq           ,    0.11886174 , -0.2818086623152078,                   9
+rac_11578216, Southwell (AW), 7:00    , Party Bear       ,    0.818487   , -0.4406153847773534,                  12
+rac_11578216, Southwell (AW), 7:00    , Calaxy           ,    0.7654799  , -0.3053355841614516,                  12
+rac_11578216, Southwell (AW), 7:00    , Delicacy         ,    0.72713256 , -0.2112278967764764,                  12
+rac_11578229, Southwell (AW), 7:30    , Nazuki           ,    0.72248375 , -0.4747294214544069,                   9
+rac_11578229, Southwell (AW), 7:30    , Straight Back Up ,    0.053102713, 0.0946220872246928 ,                   9
+rac_11578229, Southwell (AW), 7:30    , Coeur Jaune      ,    0.047252223, -0.2112278967764764,                   9
+rac_11578255, Southwell (AW), 8:00    , Mr Stanley       ,    0.55013376 , -0.0230125220065261,                  14
+rac_11578255, Southwell (AW), 8:00    , Heretic          ,    0.48570156 , -0.258281740468964 ,                  14
+rac_11578255, Southwell (AW), 8:00    , Billy McGarry    ,    0.48544535 , -0.3994432715464268,                  14
+rac_11578190, Southwell (AW), 8:30    , Stapleford Park  ,    0.80919784 , -0.1641740530839888,                  10
+rac_11578190, Southwell (AW), 8:30    , Philanthropist   ,    0.7025332  , -0.3641528887770611,                  10
+rac_11578190, Southwell (AW), 8:30    , Prince Of India  ,    0.43681073 , -0.4464971152389144,                  10
